@@ -1,0 +1,19 @@
+version=1
+
+[[annotations]]
+path = "Package.resolved"
+precedence = "closest"
+SPDX-FileCopyrightText = "© 2026 Sebastian Ritter"
+SPDX-License-Identifier = "0BSD"
+
+[[annotations]]
+path = ".swift-version"
+precedence = "closest"
+SPDX-FileCopyrightText = "© 2026 Sebastian Ritter"
+SPDX-License-Identifier = "0BSD"
+
+[[annotations]]
+path = "Plugins/**/Documentation.docc/**"
+precedence = "closest"
+SPDX-FileCopyrightText = "© 2026 Sebastian Ritter"
+SPDX-License-Identifier = "0BSD"

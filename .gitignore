@@ -1,0 +1,13 @@
+# SPDX-FileCopyrightText: 2026 - Sebastian Ritter <bastie@users.noreply.github.com>
+# SPDX-License-Identifier: 0BSD
+
+.DS_Store
+/.build
+/Packages
+xcuserdata/
+DerivedData/
+.swiftpm/configuration/registries.json
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+.netrc
+/Sources
+/Tests
